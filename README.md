@@ -3,7 +3,7 @@ Formado em *Análise de Desenvolvimento de Sistemas* e também em *Técnico em I
 
 
 ## - Technical Writer :man_technologist:	
-*Digivox (Junho 2022 - até o momento)*
+*Digivox (Junho 2022 - Julho 2023)*
 - Elaboração de documentações do sistema [Citrus Cx](https://citrus.cx/) desenvolvido pela empresa, através da [Base de Conhecimento Citrus](https://docs.citrus.cx/).
 - Escrita de textos e guias de ajuda para uma linguagem acessível.
 - Colaboração com especialistas de outras áreas da empresa, para o desenvolvimento de documentações internas.
