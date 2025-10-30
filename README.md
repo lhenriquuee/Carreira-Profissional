@@ -1,6 +1,13 @@
 # Experiências Profissionais 💼
 Formado em *Análise de Desenvolvimento de Sistemas* e também em *Técnico em Informática*, eu trabalho com Tecnologia da Informação desde 2010, já tive experiência com Suporte (Infraestrutura e Sistemas) e atualmente trabalho com Documentações para sistemas (Technical Writing), vem saber um pouco mais:  
 
+## - Technical Writer :man_technologist:	
+*Matera (Julho 2023 - até o momento)*
+- Desenvolvo guias e materiais de apoio para produtos e serviços, visando melhorar a experiência e a compreensão dos clientes sobre nossos sistemas.
+- Atuo em parceria com equipes de Produto e Desenvolvimento para coletar informações, validar processos e garantir que a documentação esteja sempre atualizada com as novas funcionalidades.
+- Utilizo o Confluence para documentar e gerenciar a Base de Conhecimento e o Jira para organizar e otimizar o fluxo de trabalho entre os times.
+- Organizo e apresento eventos internos que incentivam a troca de experiências e promovem a cultura de compartilhamento de conhecimento na empresa.
+- Sou o responsável por apresentar a área de Gestão do Conhecimento nos programas de onboarding, facilitando a rápida integração de novos colaboradores.
 
 ## - Technical Writer :man_technologist:	
 *Digivox (Junho 2022 - Julho 2023)*
